@@ -1,0 +1,19 @@
+{
+  "name": "api-platform-raml-import",
+  "version": "1.0.0",
+  "description": "A client of the API platform which loads the current directory to the File system API for use in API designer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.9",
+    "node-getopt": "^0.2.3",
+    "promise": "^6.1.0",
+    "read-dir-files": "^0.1.1",
+    "superagent": "^0.21.0",
+    "toposort": "^0.2.10"
+  }
+}
