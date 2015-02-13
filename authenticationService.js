@@ -12,10 +12,10 @@ function authenticate(baseUri, username, password) {
 	        password: password
 	      })
 	    )
-			.then(function (secInfo){
-				return secInfo.access_token;
-			})
-			;
+		.then(function (secInfo){
+			return secInfo.access_token;
+		})
+		;
 }
 
 function promisifyRequest(request) {
