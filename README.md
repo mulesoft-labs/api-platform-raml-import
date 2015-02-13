@@ -1,7 +1,9 @@
 # api-platform-raml-import
 
 ## Description
-It helps loading a local folder to the API platform's API Designer. It recursively scans the directory you are in and loads all files and folders to the API designer file system in the API platform
+It helps loading a local folder to the API platform's API Designer. It recursively scans the directory you are in and loads all files and folders to the API designer file system in the API platform.
+
+### WARNING: This will delete all files and folders in the API designer file system in the selected API.
 
 ## Usage
 
