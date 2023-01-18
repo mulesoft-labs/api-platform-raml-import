@@ -13,7 +13,7 @@
     "node-getopt": "^0.2.3",
     "promise": "^6.1.0",
     "read-dir-files": "^0.1.1",
-    "superagent": "^0.21.0",
+    "superagent": "^2.0.0",
     "toposort": "^0.2.10"
   }
 }
